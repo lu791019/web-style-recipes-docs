@@ -4,6 +4,8 @@
 
 <p align="center">An agent skill for experimental, memorable homepages, built from tested recipes and visual styles with real references.</p>
 
+<p align="center"><a href="https://www.agensi.io/skills/web-style-recipes"><img src="https://img.shields.io/badge/web%20style%20recipes-on%20Agensi-1f6feb?style=for-the-badge" alt="web style recipes on Agensi"></a></p>
+
 > This repository is documentation only. It does not contain the skill files.
 
 ---
@@ -98,7 +100,9 @@ Requirements:
 
 ## Get the skill
 
-Available on [Agensi](https://www.agensi.io/). One-time purchase, future updates included.
+Available on Agensi: https://www.agensi.io/skills/web-style-recipes
+
+One-time purchase, future updates included.
 
 ## Credits
 
